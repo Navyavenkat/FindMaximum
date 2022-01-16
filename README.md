@@ -43,13 +43,11 @@ def max_marks(list1):
     return max_mark
 
 ```
-## Sample Input and Output
+
+## Output:
 ![GITHUB LOGO](list.png)
 ![GITHUB LOGO](list1.png)
 ![GITHUB LOGO](list2.png)
-
-
-## Output:
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
